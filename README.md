@@ -56,7 +56,6 @@ An Exploratory Data Analysis project on hourly electricity consumption data to u
 - Jupyter Notebook
   
 ## ✅ Final Conclusion
-## ✅ Final Conclusion
 
 This EDA demonstrates that electricity demand follows clear and recurring temporal patterns driven by consumer behavior and seasonal weather conditions.
 The consistency of these patterns across multiple years suggests a highly predictable demand structure, providing valuable opportunities for accurate forecasting, efficient resource allocation, and proactive grid management. 
